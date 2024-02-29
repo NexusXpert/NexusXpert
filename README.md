@@ -54,3 +54,111 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
 </p>
 
 <!-- Updated GitHub stats to emphasize Java, Python, and number one status -->
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nexusxpert&show_icons=true&locale=en&layout=compact"
+    alt="nexusxpert - Top Programming Languages"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=nexusxpert&show_icons=true&locale=en"
+    alt="nexusxpert - GitHub Stats"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nexusxpert&"
+    alt="nexusxpert - GitHub Commit Streak Stats"
+  />
+</p>
+
+<div class="container">
+  <h1 class="title">Nexus Expert Employment Chart</h1>
+  <div class="chart">
+    <div class="employee">
+      <img
+        src="[Image of web developer]"
+        alt="Web Developer"
+        class="image"
+      />
+      <p class="name">Web Developer: Jams</p>
+      <p class="description">
+        Jams possesses a diverse skillset in web development, including:
+        <ul>
+          <li>
+            <a
+              href="https://developer.android.com"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+                alt="Android"
+                width="40"
+                height="40"
+              />
+              Android
+            </a>
+          </li>
+          <li>
+            <a href="https://angular.io" target="_blank" rel="noreferrer">
+              <img
+                src="https://angular.io/assets/images/logos/angular/angular.svg"
+                alt="Angular"
+                width="40"
+                height="40"
+              />
+              Angular
+            </a>
+          </li>
+          </ul>
+      </p>
+    </div>
+    <div class="employee">
+      <img
+        src="[Image of mobile developer]"
+        alt="Mobile Developer"
+        class="image"
+      />
+      <p class="name">Mobile Developer: Harshit Kumar</p>
+      <p class="description">
+        Harshit Kumar brings expertise in mobile development through:
+        <ul>
+          <li>
+            <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+              <img
+                src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+                alt="Blender"
+                width="40"
+                height="40"
+              />
+              Blender (3D Design)
+            </a>
+          </li>
+          <li>
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                alt="Bootstrap"
+                width="40"
+                height="40"
+              />
+              Bootstrap
+            </a>
+          </li>
+          </ul>
+      </p>
+    </div>
+    <div class="employee">
+      <img
+        src="https://github.com/NexusXpert/NexusXpert/assets/141859828/cb45e284-e737-43d8-8bbc-454a92848ecc"
+        alt="Game Developer"
+        class="image"
+      />
+      <p class="name">Game
