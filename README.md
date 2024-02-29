@@ -66,7 +66,7 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
 <html lang="en">
 <head>
   
-  [logo](https://github.com/NexusXpert/NexusXpert/assets/141859828/cb45e284-e737-43d8-8bbc-454a92848ecc)
+  (https://github.com/NexusXpert/NexusXpert/assets/141859828/cb45e284-e737-43d8-8bbc-454a92848ecc)
   
 
 </head>
