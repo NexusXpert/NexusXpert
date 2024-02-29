@@ -136,6 +136,7 @@ Criteria for Ranking Employees:
 
 
            <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -147,8 +148,8 @@ Criteria for Ranking Employees:
             width: 100%;
         }
         th, td {
-            border: 1px solid #ddd;
             padding: 8px;
+            border: 1px solid #ddd;
             text-align: left;
         }
         th {
@@ -157,67 +158,74 @@ Criteria for Ranking Employees:
     </style>
 </head>
 <body>
-    <h1>Employee Chart</h1>
+    <h2>Employee Chart</h2>
     <table>
-        <thead>
-            <tr>
-                <th>Rank</th>
-                <th>Male Name</th>
-                <th>Female Name</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1</td>
-                <td>Liam</td>
-                <td>Olivia</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>Noah</td>
-                <td>Emma</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>Oliver</td>
-                <td>Charlotte</td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>James</td>
-                <td>Amelia</td>
-            </tr>
-            <tr>
-                <td>5</td>
-                <td>Elijah</td>
-                <td>Sophia</td>
-            </tr>
-            <tr>
-                <td>6</td>
-                <td>William</td>
-                <td>Isabella</td>
-            </tr>
-            <tr>
-                <td>7</td>
-                <td>Henry</td>
-                <td>Ava</td>
-            </tr>
-            <tr>
-                <td>8</td>
-                <td>Lucas</td>
-                <td>Mia</td>
-            </tr>
-            <tr>
-                <td>9</td>
-                <td>Benjamin</td>
-                <td>Evelyn</td>
-            </tr>
-            <tr>
-                <td>10</td>
-                <td>Theodore</td>
-                <td>Luna</td>
-            </tr>
-        </tbody>
+        <tr>
+            <th>Rank</th>
+            <th>Name</th>
+            <th>Average Experience (Years)</th>
+            <th>Skills</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Liam</td>
+            <?php echo rand(1, 10); // Generate random experience between 1 and 10 years ?>
+            <td>Java</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Noah</td>
+            <?php echo rand(1, 10); ?>
+            <td>HTML</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Oliver</td>
+            <?php echo rand(1, 10); ?>
+            <td>JavaScript</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>James</td>
+            <?php echo rand(1, 10); ?>
+            <td>Artificial Intelligence</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Elijah</td>
+            <?php echo rand(1, 10); ?>
+            <td>Marketing</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>William</td>
+            <?php echo rand(1, 10); ?>
+            <td>Cybersecurity</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Henry</td>
+            <?php echo rand(1, 10); ?>
+            <td>Customer Support</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Lucas</td>
+            <?php echo rand(1, 10); ?>
+            <td>(Skill not provided)</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Benjamin</td>
+            <?php echo rand(1, 10); ?>
+            <td>(Skill not provided)</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Theodore</td>
+            <?php echo rand(1, 10); ?>
+            <td>HTML</td>
+        </tr>
     </table>
 </body>
 </html>
