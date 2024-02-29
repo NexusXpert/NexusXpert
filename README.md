@@ -148,86 +148,96 @@ Criteria for Ranking Employees:
             width: 100%;
         }
         th, td {
+            text-align: left;
             padding: 8px;
             border: 1px solid #ddd;
-            text-align: left;
         }
-        th {
-            background-color: #f2f2f2;
-        }
+        tr:nth-child(even) {background-color: #f2f2f2;}
     </style>
 </head>
 <body>
-    <h2>Employee Chart</h2>
+    <h1>Employee Chart</h1>
     <table>
         <tr>
             <th>Rank</th>
             <th>Name</th>
-            <th>Average Experience (Years)</th>
+            <th>Position</th>
+            <th>Experience (Years)</th>
             <th>Skills</th>
         </tr>
         <tr>
             <td>1</td>
             <td>Liam</td>
-            <?php echo rand(1, 10); // Generate random experience between 1 and 10 years ?>
-            <td>Java</td>
+            <td>Software Engineer</td>
+            <td>7</td>
+            <td>Java, Python, SQL</td>
         </tr>
         <tr>
             <td>2</td>
             <td>Noah</td>
-            <?php echo rand(1, 10); ?>
-            <td>HTML</td>
+            <td>Web Developer</td>
+            <td>4</td>
+            <td>HTML, CSS, JavaScript</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Oliver</td>
-            <?php echo rand(1, 10); ?>
-            <td>JavaScript</td>
+            <td>Data Analyst</td>
+            <td>5</td>
+            <td>R, Python, SQL</td>
         </tr>
         <tr>
             <td>4</td>
             <td>James</td>
-            <?php echo rand(1, 10); ?>
-            <td>Artificial Intelligence</td>
+            <td>Graphic Designer</td>
+            <td>3</td>
+            <td>Photoshop, Illustrator, Figma</td>
         </tr>
         <tr>
             <td>5</td>
             <td>Elijah</td>
-            <?php echo rand(1, 10); ?>
-            <td>Marketing</td>
+            <td>Content Marketing Specialist</td>
+            <td>2</td>
+            <td>SEO, Social Media Marketing</td>
         </tr>
         <tr>
             <td>6</td>
             <td>William</td>
-            <?php echo rand(1, 10); ?>
-            <td>Cybersecurity</td>
+            <td>Project Manager</td>
+            <td>8</td>
+            <td>Leadership, Communication, Scrum</td>
         </tr>
         <tr>
             <td>7</td>
             <td>Henry</td>
-            <?php echo rand(1, 10); ?>
-            <td>Customer Support</td>
+            <td>Network Engineer</td>
+            <td>6</td>
+            <td>Cisco CCNA, Routing and Switching</td>
         </tr>
         <tr>
             <td>8</td>
             <td>Lucas</td>
-            <?php echo rand(1, 10); ?>
-            <td>(Skill not provided)</td>
+            <td>Sales Representative</td>
+            <td>4</td>
+            <td>Communication, Negotiation, CRM</td>
         </tr>
         <tr>
             <td>9</td>
             <td>Benjamin</td>
-            <?php echo rand(1, 10); ?>
-            <td>(Skill not provided)</td>
+            <td>Human Resources Officer</td>
+            <td>3</td>
+            <td>Recruitment, Onboarding, Employee Relations</td>
         </tr>
         <tr>
             <td>10</td>
             <td>Theodore</td>
-            <?php echo rand(1, 10); ?>
-            <td>HTML</td>
+            <td>IT Support Specialist</td>
+            <td>5</td>
+            <td>Hardware troubleshooting, Software support</td>
         </tr>
     </table>
 </body>
 </html>
+
 
 
