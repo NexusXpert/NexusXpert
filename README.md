@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/harshit_op_h1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit_op_h1" height="30" width="40" /></a>
+<a href="https://instagram.com/NexusXpert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit_op_h1" height="30" width="40" /></a>
 </p>
 
 <p>© Copyright &copy; [2023] Nexus. All rights reserved. Nexus is a software company based in India, specializing in Android app development. We have a proven track record of success, having completed 16 Android projects and exceeding client expectations.</p>
