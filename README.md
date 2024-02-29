@@ -79,24 +79,17 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
 </p>
 
 <div class="container">
+  <div class="container">
   <h1 class="title">Nexus Expert Employment Chart</h1>
   <div class="chart">
     <div class="employee">
-      <img
-        src="[Image of web developer]"
-        alt="Web Developer"
-        class="image"
-      />
+      <img src="[Image of web developer]" alt="Web Developer" class="image" />
       <p class="name">Web Developer: Jams</p>
       <p class="description">
         Jams possesses a diverse skillset in web development, including:
         <ul>
           <li>
-            <a
-              href="https://developer.android.com"
-              target="_blank"
-              rel="noreferrer"
-            >
+            <a href="https://developer.android.com" target="_blank" rel="noreferrer">
               <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
                 alt="Android"
@@ -117,15 +110,11 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
               Angular
             </a>
           </li>
-          </ul>
+        </ul>
       </p>
     </div>
     <div class="employee">
-      <img
-        src="[Image of mobile developer]"
-        alt="Mobile Developer"
-        class="image"
-      />
+      <img src="[Image of mobile developer]" alt="Mobile Developer" class="image" />
       <p class="name">Mobile Developer: Harshit Kumar</p>
       <p class="description">
         Harshit Kumar brings expertise in mobile development through:
@@ -152,7 +141,7 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
               Bootstrap
             </a>
           </li>
-          </ul>
+        </ul>
       </p>
     </div>
     <div class="employee">
@@ -161,4 +150,10 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
         alt="Game Developer"
         class="image"
       />
-      <p class="name">Game
+      <p class="name">Game Developer: Nena</p>
+      <p class="description">
+        </p>
+    </div>
+  </div>
+</div>
+
