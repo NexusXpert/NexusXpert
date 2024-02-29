@@ -133,8 +133,6 @@ Criteria for Ranking Employees:
     Level of proficiency in the employee's specific skills and technologies.
     Level of responsibility in the employee's past positions and roles.
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
