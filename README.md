@@ -60,27 +60,18 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexusxpert&" alt="nexusxpert" /></p>
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  
-  
-  
-
-</head>
-<body>
-    <div class="container">
+ <div class="container">
         <h1 class="title">Nexus Expert Employment Chart</h1>
         <div class="chart">
             <img src="[Image of a web developer]" alt="Web Developer" class="image">
-            <p class="description">Web Developer</p>
+            <p class="name">Web Developer: Jams</p>
+            <p class="description">Web development skills and experience.</p>
             <img src="[Image of a mobile developer]" alt="Mobile Developer" class="image">
-            <p class="description">Mobile Developer</p>
+            <p class="name">Mobile Developer: Harshit Kumar</p>
+            <p class="description">Mobile development skills and experience.</p>
             <img src="[https://github.com/NexusXpert/NexusXpert/assets/141859828/cb45e284-e737-43d8-8bbc-454a92848ecc]" alt="Game Developer" class="image">
-            <p class="description">Game Developer</p>
-            </div>
+            <p class="name">Game Developer: Nena</p>
+            <p class="description">Game development skills and experience.</p>
+        </div>
     </div>
-</body>
-</html>
 
