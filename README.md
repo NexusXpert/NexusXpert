@@ -78,82 +78,59 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
   />
 </p>
 
-<div class="container">
-  <div class="container">
-  <h1 class="title">Nexus Expert Employment Chart</h1>
-  <div class="chart">
-    <div class="employee">
-      <img src="[Image of web developer]" alt="Web Developer" class="image" />
-      <p class="name">Web Developer: Jams</p>
-      <p class="description">
-        Jams possesses a diverse skillset in web development, including:
-        <ul>
-          <li>
-            <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-              <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                alt="Android"
-                width="40"
-                height="40"
-              />
-              Android
-            </a>
-          </li>
-          <li>
-            <a href="https://angular.io" target="_blank" rel="noreferrer">
-              <img
-                src="https://angular.io/assets/images/logos/angular/angular.svg"
-                alt="Angular"
-                width="40"
-                height="40"
-              />
-              Angular
-            </a>
-          </li>
-        </ul>
-      </p>
-    </div>
-    <div class="employee">
-      <img src="[Image of mobile developer]" alt="Mobile Developer" class="image" />
-      <p class="name">Mobile Developer: Harshit Kumar</p>
-      <p class="description">
-        Harshit Kumar brings expertise in mobile development through:
-        <ul>
-          <li>
-            <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-              <img
-                src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-                alt="Blender"
-                width="40"
-                height="40"
-              />
-              Blender (3D Design)
-            </a>
-          </li>
-          <li>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-              <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="Bootstrap"
-                width="40"
-                height="40"
-              />
-              Bootstrap
-            </a>
-          </li>
-        </ul>
-      </p>
-    </div>
-    <div class="employee">
-      <img
-        src="https://github.com/NexusXpert/NexusXpert/assets/141859828/cb45e284-e737-43d8-8bbc-454a92848ecc"
-        alt="Game Developer"
-        class="image"
-      />
-      <p class="name">Game Developer: Nena</p>
-      <p class="description">
-        </p>
-    </div>
-  </div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nexus Expert Employment Chart</title>
+</head>
+<body>
+  <h1>Nexus Expert Employment Chart</h1>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Employee</th>
+        <th>Position</th>
+        <th>Experience (Years)</th>
+        <th>Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Nena</td>
+        <td>Game Developer</td>
+        <td>10</td>
+        <td>Unity, Unreal Engine, C++, C#, Java, JavaScript, 3D Modeling, Animation</td>
+      </tr>
+      <tr>
+        <td>Jams</td>
+        <td>Web Developer</td>
+        <td>5</td>
+        <td>HTML, CSS, JavaScript, React, Angular, Node.js, Python, Java, SQL</td>
+      </tr>
+      <tr>
+        <td>Harshit Kumar</td>
+        <td>Mobile Developer</td>
+        <td>3</td>
+        <td>Java, Kotlin, Android, iOS, React Native, Flutter, Unity</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
+
+
+Employee Descriptions:
+
+    Nena: A highly experienced Game Developer with 10 years of expertise in Unity, Unreal Engine, C++, C#, Java, JavaScript, 3D modeling, and animation.
+    Jams: A skilled Web Developer with 5 years of experience in HTML, CSS, JavaScript, React, Angular, Node.js, Python, Java, and SQL.
+    Harshit Kumar: A rising Mobile Developer with 3 years of experience in Java, Kotlin, Android, iOS, React Native, Flutter, and Unity.
+
+Criteria for Ranking Employees:
+
+    Total years of the employee's experience.
+    Level of proficiency in the employee's specific skills and technologies.
+    Level of responsibility in the employee's past positions and roles.
+           
 
