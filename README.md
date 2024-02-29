@@ -135,7 +135,6 @@ Criteria for Ranking Employees:
 
 
 
-           <!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
