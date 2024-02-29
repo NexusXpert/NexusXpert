@@ -132,5 +132,94 @@ Criteria for Ranking Employees:
     Total years of the employee's experience.
     Level of proficiency in the employee's specific skills and technologies.
     Level of responsibility in the employee's past positions and roles.
-           
+
+
+
+           <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Chart</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Employee Chart</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Male Name</th>
+                <th>Female Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Liam</td>
+                <td>Olivia</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Noah</td>
+                <td>Emma</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Oliver</td>
+                <td>Charlotte</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>James</td>
+                <td>Amelia</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Elijah</td>
+                <td>Sophia</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>William</td>
+                <td>Isabella</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Henry</td>
+                <td>Ava</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Lucas</td>
+                <td>Mia</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Benjamin</td>
+                <td>Evelyn</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Theodore</td>
+                <td>Luna</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
 
