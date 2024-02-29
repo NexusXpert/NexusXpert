@@ -61,12 +61,11 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexusxpert&" alt="nexusxpert" /></p>
 
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   
-  (https://github.com/NexusXpert/NexusXpert/assets/141859828/cb45e284-e737-43d8-8bbc-454a92848ecc)
+  
   
 
 </head>
@@ -78,7 +77,7 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
             <p class="description">Web Developer</p>
             <img src="[Image of a mobile developer]" alt="Mobile Developer" class="image">
             <p class="description">Mobile Developer</p>
-            <img src="[/home/kali/Downloads/logo.png]" alt="Game Developer" class="image">
+            <img src="[https://github.com/NexusXpert/NexusXpert/assets/141859828/cb45e284-e737-43d8-8bbc-454a92848ecc]" alt="Game Developer" class="image">
             <p class="description">Game Developer</p>
             </div>
     </div>
