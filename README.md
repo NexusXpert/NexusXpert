@@ -8,49 +8,19 @@
 <a href="https://instagram.com/harshit_op_h1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit_op_h1" height="30" width="40" /></a>
 </p>
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NexusXpert Software Company</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        .card {
-            background-color: rgb(255, 0, 0); /* Red */
-            color: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-
-        h1 {
-            margin-bottom: 10px;
-        }
-
-        p {
-            font-size: 18px;
-        }
-    </style>
+    <title>NexusXpert - RGB Limit Card</title>
 </head>
 <body>
-
-    <div class="card">
-        <h1>Welcome to NexusXpert</h1>
-        <p>A software company from India</p>
-        <p>Completed 16 projects in Android app development</p>
+    <h1 style="color: rgb(255, 0, 0);">NexusXpert - Software Company</h1>
+    <div style="background-color: rgb(0, 255, 0); padding: 10px; border: 2px solid rgb(0, 0, 255);">
+        <p>Completed 16 Android App Development Projects</p>
     </div>
-
 </body>
 </html>
 
