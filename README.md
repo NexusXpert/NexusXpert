@@ -8,6 +8,23 @@
 <a href="https://instagram.com/harshit_op_h1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit_op_h1" height="30" width="40" /></a>
 </p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Gif</title>
+</head>
+<body>
+
+    <h1>Coding in Action</h1>
+    
+    <img src="https://example.com/path/to/coding.gif" alt="Coding in Action">
+
+</body>
+</html>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Updated order of languages -->
