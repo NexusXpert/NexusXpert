@@ -48,5 +48,70 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexusxpert&" alt="nexusxpert" /></p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nexus Expert Registration</title>
+  <style>
+    /* Basic styling for the form */
+    form {
+      display: flex;
+      flex-direction: column;
+      width: 500px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+    
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+    
+    input, textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      margin-bottom: 15px;
+    }
+    
+    .submit-btn {
+      background-color: #3498db;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Nexus Expert Registration</h1>
+  <form action="submit.php" method="post"> <label for="name">Full Name:</label>
+    <input type="text" id="name" name="name" required>
+    <label for="email">Email Address:</label>
+    <input type="email" id="email" name="email" required>
+    <label for="phone">Phone Number:</label>
+    <input type="tel" id="phone" name="phone">
+    <label for="experience">Years of Experience:</label>
+    <input type="number" id="experience" name="experience">
+    <label for="skills">Your Skills (separate with commas):</label>
+    <textarea id="skills" name="skills" rows="4"></textarea>
+    <label for="portfolio">Portfolio Link (optional):</label>
+    <input type="url" id="portfolio" name="portfolio">
+    <button type="submit" class="submit-btn">Register</button>
+  </form>
+</body>
+</html>
+**Note:**
 
-© Copyright [2023] Nexus. All rights reserved. Nexus is a software company based in India, specializing in Android app development. We have a proven track record of success, having completed 16 Android projects and exceeding client expectations.
+* This is a simple example and you may need to modify it based on your specific needs.
+* Make sure to replace "submit.php" with the actual URL of your form processing script before deploying.
+* You can add additional fields to the form such as "country", "city", or a dropdown menu for selecting specific areas of expertise.
+* Consider adding validation using JavaScript to ensure users enter valid information before submitting the form.
+
