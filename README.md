@@ -100,7 +100,7 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
       <tr>
         <td>Nena</td>
         <td>Game Developer</td>
-        <td>10</td>
+        <td>7</td>
         <td>Unity, Unreal Engine, C++, C#, Java, JavaScript, 3D Modeling, Animation</td>
       </tr>
       <tr>
