@@ -62,4 +62,57 @@ Ready to join us in shaping the future? Connect with us and let's discuss how we
 
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus Expert Employment Chart</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 800px;
+            margin: 50px auto;
+            border: 1px solid #ddd;
+            padding: 20px;
+            text-align: center;
+        }
+        .title {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .chart {
+            width: 100%;
+            height: 300px;
+        }   
+        .image {
+            width: 100px;
+            height: 100px;
+            margin: 0 auto;
+            border-radius: 50%;
+        }
+        .description {
+            font-size: 16px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Nexus Expert Employment Chart</h1>
+        <div class="chart">
+            <img src="[Image of a web developer]" alt="Web Developer" class="image">
+            <p class="description">Web Developer</p>
+            <img src="[Image of a mobile developer]" alt="Mobile Developer" class="image">
+            <p class="description">Mobile Developer</p>
+            <img src="[Image of a game developer]" alt="Game Developer" class="image">
+            <p class="description">Game Developer</p>
+            </div>
+    </div>
+</body>
+</html>
 
