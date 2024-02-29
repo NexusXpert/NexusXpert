@@ -18,15 +18,6 @@ Our team of skilled developers possesses a diverse skillset, leveraging cutting-
 
 Ready to join us in shaping the future? Connect with us and let's discuss how we can help you turn your vision into a reality.
 
-Key points:
-
-    Focuses on Android app development.
-    Highlights success with 16 completed projects.
-    Emphasizes skilled developers and cutting-edge technologies.
-    Mentions dedication to exceptional service and collaboration.
-    Includes a call to action for potential clients.
-
-Note: This description keeps it concise and under 100 words, as requested. You can further customize it by adding specific information about your company's unique values, areas of expertise, or any awards or recognition you may have received.
 
 
 
