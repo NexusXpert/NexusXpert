@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, we are @NexusXpert</h1>
 <h3 align="center">A software company from India</h3>
 
-![1441935846-a593ae97efb11e539d7df094c31207f6](https://github.com/NexusXpert/NexusXpert/assets/141859828/77269e55-367a-475a-ba64-d33f23a72b62)
+
+![home-banner-latest](https://github.com/NexusXpert/NexusXpert/assets/141859828/2bddbec3-8261-4f98-8244-bed9a10febd0)
+
 
 
 
