@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, we are @NexusXpert</h1>
 <h3 align="center">A software company from India</h3>
 
+![1441935846-a593ae97efb11e539d7df094c31207f6](https://github.com/NexusXpert/NexusXpert/assets/141859828/77269e55-367a-475a-ba64-d33f23a72b62)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nexusxpert&label=Profile%20views&color=0e75b6&style=flat" alt="nexusxpert" /> </p>
 
 <h3 align="left">Connect with me:</h3>
