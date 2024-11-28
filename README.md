@@ -21,7 +21,7 @@
   
   <h2>Get in Touch</h2>
   <p>If you're looking for reliable and cost-effective services for your next digital project, we’d love to connect and discuss how we can help.</p>
-  <p><strong>WhatsApp Us:</strong> <a href="https://wa.me/8009773835" target="_blank">8009773835</a></p>
+  <p><strong>WhatsApp Us:</strong> <a href="https://wa.me/+918009773835" target="_blank">8009773835</a></p>
   <p><strong>Website:</strong> <a href="https://NexusXpert.in" target="_blank">NexusXpert.in</a></p>
   
   <footer>
