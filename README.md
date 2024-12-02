@@ -1,3 +1,18 @@
+# NexusXpert - AI Solutions Website
+
+Welcome to the **NexusXpert** website repository! This page showcases our AI-powered subscription plans and provides functionality like the *scroll to top* button for better user experience.
+
+## Features:
+- **AI Subscription Plans**: Choose from Basic, Standard, and Premium plans.
+- **Scroll to Top Button**: A button that allows users to scroll to the top of the page with ease.
+- **WhatsApp Integration**: Users can contact NexusXpert via WhatsApp for more details on the subscription plans.
+
+---
+
+## HTML and JavaScript Code
+
+Below is the code for the **NexusXpert** website, including a **scroll-to-top** feature:
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,12 +21,10 @@
   <title>NexusXpert - AI Solutions</title>
 </head>
 <body>
-
   <header>
     <h1>NexusXpert</h1>
     <p><em>Empowering the Future with AI and Technology</em></p>
   </header>
-
   <div class="container">
     <section>
       <h2>Our AI Plans</h2>
@@ -85,10 +98,8 @@
   <footer>
     <p>&copy; 2024 NexusXpert. All rights reserved.</p>
   </footer>
-
   <!-- Scroll to Top Button -->
   <button id="scrollToTopBtn" onclick="scrollToTop()">↑</button>
-
   <script>
     function sendWhatsAppMessage(plan) {
       let message = '';
@@ -103,7 +114,6 @@
       const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
       window.open(url, '_blank');
     }
-
     // Scroll to Top Button functionality
     window.onscroll = function() {
       if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
@@ -112,11 +122,10 @@
         document.getElementById("scrollToTopBtn").style.display = "none";
       }
     };
-
     function scrollToTop() {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   </script>
-
 </body>
 </html>
+
